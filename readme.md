@@ -21,4 +21,4 @@ Add _styles.xml_ to styles.<br>
 Return back to project's folder.
 
 ## The last step
-Build the application and generate an _apk_ file.
+Build the application and generate an ___apk___ file.
