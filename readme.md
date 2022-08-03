@@ -5,6 +5,9 @@ Open this project's folder.<br>
 Then set all files from this repository according to the following instruction.<br>
 All further work is described as if you are in the project's folder.
 
+## Code files
+Copy them into the folder that contains your MainActivity.java file (ordinary code).<br>
+
 ## Directory drawable
 Contains files that should be copied into __app/drawable__.<br>
 A few files can be replaced.
