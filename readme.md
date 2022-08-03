@@ -1,5 +1,6 @@
 # Run guide
 
+You can also use ___apk___ file _"calculator.apk"_ from this repository.<br>
 The first step is to create a project in Android Studio.<br>
 Open this project's folder.<br>
 Then set all files from this repository according to the following instruction.<br>
