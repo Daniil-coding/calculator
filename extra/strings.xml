@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="btnConvert">перевести</string>
+    <string name="solution">получить решение</string>
+    <string name="fromNS">ИЗ</string>
+    <string name="toNS">В</string>
+    <string name="beginningOfInput">Введите выражение</string>
+    <string name="numberSystem">Система счисления:</string>
+    <string name="btnBack">назад</string>
+    <string name="btnClear">очистить</string>
+    <string name="accuracy">Точность при делении:</string>
+    <string name="calculation">идёт вычисление...</string>
+    <string name="message1Begin">Не больше </string>
+    <string name="message1End"> символов!</string>
+    <string name="toOtherNumberSystems">перевод между системами счисления</string>
+    <string name="message2">Введите основание системы счисления! (число от 2 до 36)</string>
+    <string name="message3">Введена не та система счисления или обнаружены посторонние символы.</string>
+    <string name="message4">Этот калькулятор не считает факториал дробного числа.</string>
+    <string name="emptyInput">Поле ввода пустое! Введите выражение...</string>
+    <string name="answer">Ответ: </string>
+    <string name="detectedDivZero">Обнаружено деление на ноль!</string>
+    <string name="inputInstruction">Система счисления указана неверно или этот калькулятор не может работать с ней. Введите в это поле число от 2 до 36.</string>
+    <string name="cannotDevide">На 0 делить нельзя</string>
+</resources>
