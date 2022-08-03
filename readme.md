@@ -3,7 +3,7 @@
 The first step is to create a project in Android Studio.<br>
 Open this project's folder.<br>
 Then set all files from this repository according to the following instruction.<br>
-All further work is described as if you are in the project's folder.
+All further actions are described as if you are in the project's folder.
 
 ## Code files
 Copy them into the folder that contains your _MainActivity.java_ file (ordinary code).<br>
