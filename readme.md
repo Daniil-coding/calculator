@@ -7,15 +7,15 @@ All further work is described as if you are in the project's folder.
 
 ## Code files
 Copy them into the folder that contains your _MainActivity.java_ file (ordinary code).<br>
-_MainActivity.java_ file will be overriden.
+_MainActivity.java_ file will be overridden.
 
 ## Directory drawable
 Contains files that should be copied into __app/drawable__.<br>
-A few files can be overriden.
+A few files can be overridden.
 
 ## Directory layout
 Contains files that should be copied into __app/res/layout__.<br>
-File _layout_main.xml_ will be overriden.
+File _layout_main.xml_ will be overridden.
 
 ## Directory extra
 Firstly go to __app/res__.<br>
